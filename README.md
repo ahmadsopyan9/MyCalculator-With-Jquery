@@ -47,12 +47,10 @@ MyCalculator Adalah Aplikasi Calculator Berbasis Web, Di Buat Dengan HTML+CSS+JQ
   </div>
 </div>
 
-<!-- include jquery.min.js -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-<!-- Page Script -->
 <script>
-	$(document).ready(function() {
+  $(document).ready(function() {
   var result = 0;
   var prevEntry = 0;
   var operation = null;
