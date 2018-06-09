@@ -1,10 +1,15 @@
 # MyCalculator-With-Jquery
 MyCalculator Adalah Aplikasi Calculator Berbasis Web, Di Buat Dengan HTML+CSS+JQUERY. Crete By: Ahmad Sopyan
 
+# SCREENSHOOT
+
+<img src="https://cdn.pbrd.co/images/Hp7WcVK.png" width="100%" height="500">
+
 
 # HTML
 
 ```===================================================================```
+
 
 ```
 <!DOCTYPE html>
@@ -120,8 +125,6 @@ operate = function(a, b, operation) {
 </html>
 ```
 
-<br>
-<hr>
 
 # CSS
 
