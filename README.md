@@ -3,7 +3,7 @@ MyCalculator Adalah Aplikasi Calculator Berbasis Web, Di Buat Dengan HTML+CSS+JQ
 
 # SCREENSHOOT
 
-<img src="https://cdn.pbrd.co/images/Hp7WcVK.png" width="100%" height="500">
+<img src="http://appdemoisfidev.22web.org/jquerycalculator/jquerycalculator.png" width="100%" height="500">
 
 
 # HTML
